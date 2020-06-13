@@ -11,7 +11,7 @@ class Form extends Component
     public $last_name;
     public $email;
     public $country = 'United States';
-    public $street_address = 'United States';
+    public $street_address = '';
     public $city;
     public $state;
     public $zip;
